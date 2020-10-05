@@ -3,13 +3,13 @@
 
 #### write and Save notes that organize your thoughts and keep track of tasks you need to complete
 
-![Note Taker App](/assets/image/note-taker.png)
+![Note Taker App](docs/assets/image/note-taker.png)
 
-https://note-taker-ucb.herokuapp.com - automatic!
 [Heroku](https://note-taker-ucb.herokuapp.com)
+https://note-taker-ucb.herokuapp.com
 
-https://github.com/Torabis/Note-Taker - automatic!
 [GitHub](https://github.com/Torabis/Note-Taker)
+https://github.com/Torabis/Note-Taker
 
 ## Acceptance Criteria
 - WHEN I open the Note Taker
