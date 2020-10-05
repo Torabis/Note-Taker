@@ -1,15 +1,14 @@
 # __Note-Taker__
-### UCB Module 3 Project
+### UCB Module 11 - Project
 
-#### write and Save notes that organize your thoughts and keep track of tasks you need to complete
+#### Write and Save notes that organize your thoughts and keep track of tasks you need to complete
 
-![Note Taker App](docs/assets/image/note-taker.png)
+![Note Taker App](/docs/assets/image/note-taker.png)
 
 [Heroku](https://note-taker-ucb.herokuapp.com)
-https://note-taker-ucb.herokuapp.com
 
 [GitHub](https://github.com/Torabis/Note-Taker)
-https://github.com/Torabis/Note-Taker
+
 
 ## Acceptance Criteria
 - WHEN I open the Note Taker
